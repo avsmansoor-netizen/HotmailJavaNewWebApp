@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Main-Class: main.MA
+Class-Path: . Hotmailo_lib/common-lang3.jar Hotmailo_lib/commons-codec-1
+ .13.jar Hotmailo_lib/commons-compress-1.20.jar Hotmailo_lib/commons-io-
+ 2.6.jar Hotmailo_lib/commons-io-2.8.0.jar Hotmailo_lib/commons-lang3-3.
+ 10.jar Hotmailo_lib/commons-lang3-3.11.jar Hotmailo_lib/commons-logging
+ -1.2.jar Hotmailo_lib/gson-2.8.6.jar Hotmailo_lib/httpclient5-5.0.1.jar
+  Hotmailo_lib/httpcore5-5.0.1.jar Hotmailo_lib/jarchivelib-1.1.0.jar Ho
+ tmailo_lib/javax.activation-1.2.0.jar Hotmailo_lib/javax.mail-1.6.2.jar
+  Hotmailo_lib/joda-time-2.10.5.jar Hotmailo_lib/json-20190722.jar Hotma
+ ilo_lib/jsoup-1.13.1.jar Hotmailo_lib/selenium-server-standalone-3.141.
+ 59.jar Hotmailo_lib/slf4j-api-1.7.30.jar Hotmailo_lib/webdrivermanager-
+ 4.2.2.jar Hotmailo_lib/jackson-annotations-2.11.0.rc1.jar Hotmailo_lib/
+ jackson-core-2.11.0.rc1.jar Hotmailo_lib/jackson-databind-2.11.0.rc1.ja
+ r Hotmailo_lib/jaxb-api-2.4.0-b180830.0359.jar
+
