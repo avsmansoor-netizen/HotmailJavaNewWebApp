@@ -1,3 +1,0 @@
-Summary for Hotmail.jar
-Decompiled with CFR 0.152
-Exception analysing jar java.lang.NullPointerException: Cannot invoke "java.io.File.getCanonicalPath()" because the return value of "java.io.File.getParentFile()" is null
